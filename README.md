@@ -1,1 +1,1 @@
-# NanoGPT-Experiment-
+# NanoGPT Experiment With Shakespeare Data
